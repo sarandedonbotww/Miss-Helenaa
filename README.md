@@ -19,10 +19,10 @@
        | © |
         Reserved |
     <br> 
-</p>
+
 
 ##
-  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
+  >📢 JOIN OUR SUPPORT GROUP:</h3>
 <p align="center">
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
